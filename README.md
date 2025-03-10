@@ -25,9 +25,13 @@ A passionate AI/ML Developer from India
   <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="Keras" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
   <img align="center" alt="Flask" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
+  <img align="center" alt="Hugging Face Transformers" height="30" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
+  <img align="center" alt="LangChain" height="30" width="40" src="https://avatars.githubusercontent.com/u/106961273?s=200&v=4">
 
 * **Developer Tools:** <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Jetson Developer Kit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg">
+  <img align="center" alt="Raspberry Pi" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1920px-Raspberry_Pi_Logo.svg.png">
 
 * **Libraries:** <img align="center" alt="scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="OpenCV" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
