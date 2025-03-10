@@ -23,13 +23,14 @@ A passionate AI/ML Developer from India
 
 * **Frameworks:** <img align="center" alt="TensorFlow" height="30" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
   <img align="center" alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Keras" height="30" width="40" src="https://www.vectorlogo.zone/logos/keras-io/keras-io-icon.svg">
-  <img align="center" alt="Flask" height="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+  <img align="center" alt="Keras" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
 
 * **Developer Tools:** <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 * **Libraries:** <img align="center" alt="scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="OpenCV" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/logos/pandas.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
+
